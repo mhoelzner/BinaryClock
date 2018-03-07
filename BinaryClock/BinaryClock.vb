@@ -23,7 +23,7 @@
 
     Private Sub BinaryClock_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
-        ' Init Clock Matrix
+        ' Init Clock Matrix for display
 
         ' Row 1
         ClockMatrix(0, 0) = New Point(25, 50)
